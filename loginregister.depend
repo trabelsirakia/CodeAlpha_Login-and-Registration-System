@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722593002 source:c:\users\hp\desktop\loginregister\main.cpp
+	<iostream>
+	<map>
+	<string>
+
